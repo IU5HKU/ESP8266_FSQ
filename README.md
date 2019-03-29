@@ -12,3 +12,6 @@ Arduino Timer setup code by Thomas Knutsen LA3PNA. ESP8266 Timer setup code by M
 
 You can change from 2 and 6baud, but it's trivial to calculate new interrupt timings for the others FSQ values.
 Usually FSQ was born for 80 40 and 30m use, but can be used upto VHF too.
+Si5351A is connected via I2C on pin D1 (SCL) and D2 (SDA) as marked on Wemos D1 mini Lite
+
+Many thanks to Jason Milldrum NT7S for his work around Si5351 and for his superb library.
