@@ -1,5 +1,5 @@
 # ESP8266_FSQ
-Simple FSQ beacon for ESP8266, with the Etherkit Si5351A Breakout Board, forked from Jason Milldrum NT7S github
+Simple FSQ beacon for ESP8266, with the Etherkit Si5351A Breakout Board, forked from Jason Milldrum NT7S github, but works flawlessly with the cheaps chinese Si5351 breakout modules too.
 
 Adapted for ESP8266 by Marco Campinoti IU5HKU 28/03/2019
 This release uses the timer1 hardware interrupt for the required precise timing.
